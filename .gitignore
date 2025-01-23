@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+*~
+.*
+*.tar
+*.gz
+*.bz2
+*.rar
+*.zip
+app/build
