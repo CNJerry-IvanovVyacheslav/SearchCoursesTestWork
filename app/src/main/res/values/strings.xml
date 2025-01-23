@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SearchCoursesTestWork</string>
+    <string name="details">Подробнее</string>
+    <string name="main">Главная</string>
+    <string name="course">Курс</string>
+    <string name="favorite">Избранное</string>
+    <string name="account">Аккаунт</string>
 </resources>
